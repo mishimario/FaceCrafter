@@ -15,13 +15,13 @@
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
-  <img src="images/arxiv-logomark@2x.png" width="5%" style="text-decoration: none; display: block;">
+  <img src="images/arxiv-logomark@2x.png" width="50px" style="text-decoration: none; display: block;">
 </a> 
       <figcaption style="font-size: 0.8em; margin-top: 5px;">GitHub</figcaption>
 </figure>　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <figure style="display: inline-block; text-align: center;">
 <a href="https://github.com/username/repo">
-  <img src="images/github-mark.png" width="7%">
+  <img src="images/github-mark.png" width="50px">
 </a>
     <figcaption style="font-size: 0.8em; margin-top: 5px;">GitHub</figcaption>
 </figure>
@@ -53,7 +53,7 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
 
 
 ## Citation
-```bibtex
+
 @article{mishima2025facecrafter,
   title={FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion},
   author={Mishima, Kazuaki and Casademunt, Antoni Bigata and Petridis, Stavros and Pantic, Maja and Suzuki, Kenji},
