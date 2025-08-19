@@ -1,4 +1,14 @@
+<div align="center">
+
 # FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion
+
+
+
+**Kazuaki Mishima<sup>1</sup>, Antoni Bigata Casademunt<sup>2</sup>, Stavros Petridis<sup>2</sup>, Maja Pantic<sup>2</sup>, Kenji Suzuki<sup>1</sup>**  
+<sup>1</sup>Institute of Science Tokyo &nbsp;&nbsp;|&nbsp;&nbsp; <sup>2</sup>Imperial College London
+
+
+
 
 This is the official project page for our BMVC 2025 paper:  
 **"FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion"**  
@@ -41,4 +51,7 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
   journal={arXiv preprint arXiv:2505.15313},
   year={2025}
 }
+
+</div>
+
 
