@@ -23,6 +23,11 @@ Kazuaki Mishima, Antoni Bigata Casademunt, Stavros Petridis, Maja Pantic, Kenji 
 ---
 
 ## Abstract
+
+<div align="center">
+  <img src="images/overview_final.png" alt="FaceCrafter" width="500">
+</div>
+
 Human facial images encode a rich spectrum of information, encompassing both stable identity-related traits and mutable attributes such as pose, 
 expression, and emotion. While recent advances in image generation have enabled high-quality identity-conditional face synthesis, precise control 
 over non-identity attributes remains challenging, and disentangling identity from these mutable factors is particularly difficult. 
@@ -36,15 +41,6 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
 
 ---
 
-## Method
-
-
-
----
-
-## Results
-
----
 
 ## Citation
 ```bibtex
