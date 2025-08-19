@@ -15,9 +15,11 @@
 <div style="text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
   <img src="images/arxiv-logomark@2x.png" width="5%" style="text-decoration: none; display: block;">
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">Paper</figcaption>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/username/repo">
   <img src="images/github-mark.png" width="7%">
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">Code</figcaption>
 </a>
 </div>
 
@@ -29,7 +31,7 @@
 ## Abstract
 
 <div align="center">
-  <img src="images/overview.png" alt="FaceCrafter" width="800">
+  <img src="images/overview.png" alt="FaceCrafter" width="1000">
 </div>
 
 Human facial images encode a rich spectrum of information, encompassing both stable identity-related traits and mutable attributes such as pose, 
