@@ -9,8 +9,8 @@
 
 ### BMVC 2025
 
-[![arXiv](images/arxiv_logo.png)](https://arxiv.org/abs/xxxx.xxxxx)
-[![GitHub](images/github_logo.png)](https://github.com/username/repo)
+[![arXiv](images/arxiv_logomark@2x.png)](https://arxiv.org/abs/xxxx.xxxxx)
+[![GitHub](images/github_mark.png)](https://github.com/username/repo)
 
 
 </div>
