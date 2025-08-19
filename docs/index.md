@@ -15,12 +15,13 @@
 <div style="text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
   <img src="images/arxiv-logomark@2x.png" width="5%" style="text-decoration: none; display: block;">
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">Paper</figcaption>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <figure style="display: inline-block; text-align: center;">
 <a href="https://github.com/username/repo">
   <img src="images/github-mark.png" width="7%">
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">Code</figcaption>
 </a>
+    <figcaption style="font-size: 0.8em; margin-top: 5px;">GitHub</figcaption>
+</figure>
 </div>
 
 </div>
