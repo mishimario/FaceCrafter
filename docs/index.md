@@ -10,10 +10,10 @@
 ### BMVC 2025
 
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
-  <img src="images/arxiv-logomark@2x.png" width="5%">
+  <img src="images/arxiv-logomark@2x.png" width="5%" style="margin-right: 10px;">
 </a>
 <a href="https://github.com/username/repo">
-  <img src="images/github-mark.png" width="10%">
+  <img src="images/github-mark.png" width="7%">
 </a>
 
 
