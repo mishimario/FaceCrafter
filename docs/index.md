@@ -17,13 +17,13 @@
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
   <img src="images/arxiv-logomark@2x.png" width="50px" style="text-decoration: none; display: block;">
 </a> 
-      <figcaption style="font-size: 0.8em; margin-top: 5px;">GitHub</figcaption>
+      <figcaption style="font-size: 0.8em; margin-top: 5px;"><strong>Paper</strong></figcaption>
 </figure>　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <figure style="display: inline-block; text-align: center;">
 <a href="https://github.com/username/repo">
-  <img src="images/github-mark.png" width="50px">
+  <img src="images/github-mark.png" width="80px">
 </a>
-    <figcaption style="font-size: 0.8em; margin-top: 5px;">GitHub</figcaption>
+    <figcaption style="font-size: 0.8em; margin-top: 5px;"><strong>Code</strong></figcaption>
 </figure>
 </div>
 
