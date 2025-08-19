@@ -7,7 +7,10 @@
 **Kazuaki Mishima<sup>1</sup>, Antoni Bigata Casademunt<sup>2</sup>, Stavros Petridis<sup>2</sup>, Maja Pantic<sup>2</sup>, Kenji Suzuki<sup>1</sup>**  
 <sup>1</sup>Institute of Science Tokyo &nbsp;&nbsp;|&nbsp;&nbsp; <sup>2</sup>Imperial College London
 
+### BMVC 2025
 
+
+</div>
 
 
 This is the official project page for our BMVC 2025 paper:  
@@ -52,6 +55,5 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
   year={2025}
 }
 
-</div>
 
 
