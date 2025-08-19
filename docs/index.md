@@ -12,7 +12,7 @@
 <div style="text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
   <img src="images/arxiv-logomark@2x.png" width="5%" style="margin-right: 200px;">
-</a> &nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/username/repo">
   <img src="images/github-mark.png" width="7%">
 </a>
