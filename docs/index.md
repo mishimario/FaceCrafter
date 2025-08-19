@@ -9,6 +9,17 @@
 
 ### BMVC 2025
 
+<h1>FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion</h1>
+
+  <p style="font-weight: bold; font-size: 1.1em;">
+    Kazuaki Mishima<sup>1</sup>, Antoni Bigata Casademunt<sup>2</sup>, Stavros Petridis<sup>2</sup>, Maja Pantic<sup>2</sup>, Kenji Suzuki<sup>1</sup>
+  </p>
+  <p>
+    <sup>1</sup>Institute of Science Tokyo &nbsp;&nbsp;|&nbsp;&nbsp; <sup>2</sup>Imperial College London
+  </p>
+
+  <h3>BMVC 2025</h3>
+
 
 <div style="text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
