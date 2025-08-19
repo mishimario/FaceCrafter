@@ -9,23 +9,19 @@
 
 ### BMVC 2025
 
+[![arXiv](images/arxiv_logo.png)](https://arxiv.org/abs/xxxx.xxxxx)
+[![GitHub](images/github_logo.png)](https://github.com/username/repo)
+
 
 </div>
 
-
-This is the official project page for our BMVC 2025 paper:  
-**"FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion"**  
-Kazuaki Mishima, Antoni Bigata Casademunt, Stavros Petridis, Maja Pantic, Kenji Suzuki  
-
-📄 [Paper (arXiv)]()  
-💻 [Code (GitHub)]()  
 
 ---
 
 ## Abstract
 
 <div align="center">
-  <img src="images/overview.png" alt="FaceCrafter" width="500">
+  <img src="images/overview.png" alt="FaceCrafter" width="800">
 </div>
 
 Human facial images encode a rich spectrum of information, encompassing both stable identity-related traits and mutable attributes such as pose, 
