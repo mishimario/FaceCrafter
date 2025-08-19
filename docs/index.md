@@ -1,4 +1,4 @@
-# Project Page: FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion
+# FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion
 
 This is the official project page for our BMVC 2025 paper:  
 **"FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion"**  
@@ -25,7 +25,7 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
 
 ## Method
 
-例:  
+
 
 ---
 
@@ -34,10 +34,11 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
 ---
 
 ## Citation
-@inproceedings{mishima2025facecrafter,
-  title     = {FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion},
-  author    = {Mishima, Kazuaki and Casademunt, Antoni Bigata and Petridis, Stavros and Pantic, Maja and Suzuki, Kenji},
-  booktitle = {Proceedings of the British Machine Vision Conference (BMVC)},
-  year      = {2025}
+```bibtex
+@article{mishima2025facecrafter,
+  title={FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion},
+  author={Mishima, Kazuaki and Casademunt, Antoni Bigata and Petridis, Stavros and Pantic, Maja and Suzuki, Kenji},
+  journal={arXiv preprint arXiv:2505.15313},
+  year={2025}
 }
 
