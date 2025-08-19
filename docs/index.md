@@ -20,7 +20,7 @@
       <figcaption style="font-size: 0.8em; margin-top: 5px;"><strong>Paper</strong></figcaption>
 </figure>　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <figure style="display: inline-block; text-align: center;">
-<a href="https://github.com/username/repo">
+<a href="https://github.com/mishimario/FaceCrafter">
   <img src="images/github-mark.png" width="80px">
 </a>
     <figcaption style="font-size: 0.8em; margin-top: 5px;"><strong>Code</strong></figcaption>
