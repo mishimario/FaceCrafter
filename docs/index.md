@@ -54,12 +54,17 @@ in terms of control accuracy over pose, expression, and emotion, while also impr
 
 ## Citation
 
+<div style="border:1px solid #ccc; padding:10px; background:#f9f9f9; width:800px;">
+  <pre>
 @article{mishima2025facecrafter,
   title={FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion},
   author={Mishima, Kazuaki and Casademunt, Antoni Bigata and Petridis, Stavros and Pantic, Maja and Suzuki, Kenji},
   journal={arXiv preprint arXiv:2505.15313},
   year={2025}
 }
+  </pre>
+</div>
+
 
 
 
