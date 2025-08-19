@@ -25,7 +25,7 @@ Kazuaki Mishima, Antoni Bigata Casademunt, Stavros Petridis, Maja Pantic, Kenji 
 ## Abstract
 
 <div align="center">
-  <img src="images/overview_final.png" alt="FaceCrafter" width="500">
+  <img src="images/overview_final.pdf" alt="FaceCrafter" width="500">
 </div>
 
 Human facial images encode a rich spectrum of information, encompassing both stable identity-related traits and mutable attributes such as pose, 
