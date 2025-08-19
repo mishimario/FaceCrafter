@@ -8,7 +8,7 @@
 <sup>1</sup>Institute of Science Tokyo &nbsp;&nbsp;|&nbsp;&nbsp; <sup>2</sup>Imperial College London
 
 ### BMVC 2025
-</div>
+
 
 <div style="text-align: center;">
 <a href="https://arxiv.org/abs/xxxx.xxxxx">
@@ -19,7 +19,7 @@
 </a>
 </div>
 
-
+</div>
 
 
 ---
