@@ -1,9 +1,3 @@
-<style>
-h1:first-of-type {
-    display: none;
-}
-</style>
-
 <div align="center">
 
 <h1>FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion</h1>
