@@ -14,7 +14,7 @@
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
-<a href="https://arxiv.org/abs/xxxx.xxxxx">
+<a href="https://arxiv.org/pdf/2505.15313">
   <img src="images/arxiv-logomark@2x.png" width="50px" style="text-decoration: none; display: block;">
 </a> 
       <figcaption style="font-size: 0.8em; margin-top: 5px;"><strong>Paper</strong></figcaption>
